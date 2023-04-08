@@ -3,6 +3,8 @@
 Sales Dashboard Power BI is a business intelligence tool that enables you to analyze and visualize sales data in a powerful and interactive way. This dashboard provides real-time insights into key performance indicators for sales data, helping you to monitor your team's performance, track trends, and make data-driven decisions.
 
 # Sales Dashboard Power BI Screenshot
+![alt text](https://github.com/AlaaAElshafei/sales-dashboard/blob/main/Screenshot%202023-04-08%20221240.png)
+
 
 # Features
 ## The Sales Dashboard Power BI provides the following features:
